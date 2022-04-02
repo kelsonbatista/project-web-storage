@@ -15,9 +15,9 @@ This project is a web storage application in order to keep user data on the webs
 ---
 # Layout
 
-<img src="intro.gif" alt="DOM manipulation" />
+<img src="intro.gif" alt="Web Storage" />
 
 ---
 # Deployment / *Implantação*
 
-See it in action/ **Veja em ação**: [https://kelsonbatista.github.io/project-planets-search/](https://kelsonbatista.github.io/project-planets-search/)
+See it in action/ **Veja em ação**: [https://kelsonbatista.github.io/project-web-storage/](https://kelsonbatista.github.io/project-web-storage/)
